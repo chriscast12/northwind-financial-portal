@@ -1,0 +1,8 @@
+{
+  "name": "northwind-frontend",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "latest",
+    "typescript": "latest"
+  }
+}
